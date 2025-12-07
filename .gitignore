@@ -1,6 +1,6 @@
 .vs/
-PluginTemplate/obj/
-PluginTemplate/bin/
+AetherflowTest/obj/
+AetherflowTest/bin/
 *.user
-PluginTemplate/.env
+AetherflowTest/.env
 node_modules/
